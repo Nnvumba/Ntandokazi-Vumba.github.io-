@@ -1,10 +1,10 @@
-##Ntandokazi-Vumba.github.io
+## Ntandokazi-Vumba.github.io
 
  first portfolio application, built with JavaScript, Html and CSS.
 
 ## Deployed Project
 
-Ntandokazi-Vumba.github.iou
+https://Ntandokazi-Vumba.github.io/
 
 ## Project Status
-This project is currently in hiatus.
+This project is  a working progress
